@@ -10,12 +10,12 @@
     "body-parser": "~1.16.0",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.0",
-    "express": "~4.21.2",
     "moment": "^2.18.1",
-    "morgan": "~1.7.0",
+    "morgan": "~1.10.1",
     "nedb-core": "^3.0.6",
     "pug": "~2.0.0-beta10",
     "serve-favicon": "~2.3.2",
     "web3": "^0.19.0"
+
   }
 }
